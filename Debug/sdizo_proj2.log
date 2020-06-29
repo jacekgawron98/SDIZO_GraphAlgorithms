@@ -1,0 +1,3 @@
+﻿  sdizo_proj2.cpp
+c:\users\gawro\desktop\sdizo_proj2\sdizo_proj2\sdizo_proj2\sdizo_proj2.cpp(179): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  sdizo_proj2.vcxproj -> C:\Users\gawro\Desktop\sdizo_proj2\sdizo_proj2\Debug\sdizo_proj2.exe
